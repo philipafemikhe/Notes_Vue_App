@@ -1,6 +1,6 @@
 # NoteApp
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple note taking APP. Each note has a title, date and randomly generated background color. The design is based on simple css 
 
 ## Recommended IDE Setup
 
